@@ -24,9 +24,9 @@ PageTitlePurpose1OverviewExecutive KPIs, monthly trend, H1 vs H2 growth2Products
 
 ### Excel
 
--Data cleaning and structuring
--Formula building and data validation
--Source data preparation for Power BI
+- Data cleaning and structuring
+- Formula building and data validation
+- Source data preparation for Power BI
 
 ### Power BI
 
