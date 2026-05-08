@@ -65,8 +65,11 @@ Page 3 — Regions
 
 ## 👤 Author
 Prince Owusu Agyare
+
 Data & Business Intelligence Analyst
+
 BSc Information Technology | Multiple Data Analytics Certifications
+
 Competent in Excel, SQL, Power BI, Tableau, Python and R
 
 
