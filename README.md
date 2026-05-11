@@ -1,4 +1,4 @@
-# RegalEme-Cars-Sales-Dashboard
+# RegalEme-Cars-Sales-Dashboard--Excel & Power BI
 Power BI &amp; Excel | Car Dealership Analytics | Ghana &amp; Nigeria  
 
 Project #2 · Built August 2025 · Data Analysis &amp; Business Intelligence
